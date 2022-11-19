@@ -3201,6 +3201,14 @@ input, select, textarea {
 		padding: 6em 0 4em 0;
 	}
 
+	.wrapper.style3 {
+		background-color: #fff;
+		color: #000;
+	}
+
+	.wrapper.style3 h2, .wrapper.style3 p {
+		color: #000;
+	}
 		.wrapper.style2 {
 			background: #e44c65;
 		}
