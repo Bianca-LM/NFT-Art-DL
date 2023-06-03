@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Bologna 1886",
+        "url": "../LeafletTrial/images/map.jpg", 
+        "coordinateN": 44.54995543140633,
+        "coordinateE": 11.27460301176323,
+        "coordinateS": 44.42956846856169,
+        "coordinateO": 11.424255136978399
+    }, 
+    {
+        "label": "Bologna 1895",
+        "url": "../LeafletTrial/images/BO211_MAP1206_I_R.jpg", 
+        "coordinateN": 44.66095543140633, 
+        "coordinateE": 10.96560301176323, 
+        "coordinateS": 44.33956846856169, 
+        "coordinateO": 11.452255136978399
+    }
+]
