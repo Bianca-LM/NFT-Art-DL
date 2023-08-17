@@ -1,0 +1,5 @@
+x, y, z, color
+0, 0, 0, blue
+10, 0, 0, blue
+20, 10, 0, blue
+20, 10, 10, blue
