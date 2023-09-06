@@ -1,0 +1,22 @@
+{
+    "Piazza Giuseppe Verdi, 2 - Bologna": {
+        "latitude": 44.4961831,
+        "longitude": 11.3510606
+    },
+    "Via Zamboni, 70 - Bologna": {
+        "latitude": 44.497633,
+        "longitude": 11.353805
+    },
+    "Via dell'Indipendenza, 1c - Bologna ": {
+        "latitude": 44.4897035,
+        "longitude": 11.2123395
+    },
+    "Via dell'Archiginnasio - Bologna": {
+        "latitude": 44.4926646,
+        "longitude": 11.3434843
+    },
+    "NaN": {
+        "latitude": 34.220389,
+        "longitude": 70.3800314
+    }
+}
